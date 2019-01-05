@@ -1,4 +1,4 @@
-# Weapon_Scanner
+# Weapon Scanner
 The project uses the concept of RCNN to detect and locate weapons in XRay scans of baggage. This particular project detects guns and knives, however, the neural network can be trained on any dataset and can detect any number and any type of items from an image or a video. 
 
 ## What is R-CNN?
