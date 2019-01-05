@@ -10,3 +10,4 @@ For more details about the internal workings of RCNN: [RCNN](https://towardsdata
 For this project we have used a pre trained model, as it takes less time to train and gives us a really good accuracy on our dataset.
 
 I could not upload the files for the project due to the size of the dataset in the project. However, I have uploaded the project report for the same which contains the working screenshots and code snippets of the project.
+For the source code and dataset files contact me at :**amalhi_be16@thapar.edu**
